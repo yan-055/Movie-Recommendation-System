@@ -1,0 +1,21 @@
+name: recomm-system
+channels:
+  - pytorch
+dependencies:
+  - python=3.9.10
+  - conda
+  - conda:
+    - ipykernel 
+    - pandas==1.4.1
+    - numpy==1.22.2
+    - scikit-learn==1.0.2
+    - pytorch==1.11.0
+    - torchvision==0.12.0
+    - torchaudio==0.11.0
+    - cudatoolkit=10.2
+    - matplotlib==3.5.1
+    - seaborn
+  - pip
+  - pip:
+      - boto3
+      - sagemaker
