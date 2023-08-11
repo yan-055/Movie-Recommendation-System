@@ -5,5 +5,5 @@ A deep learning algorithm autoencoder is used to build the model which could rec
 
 The data used to train the model is MovieLens 100K Dataset.
 
-A detailed description about recommender systems and the autoencoder model can be accessed here
-https://github.com/yan-055/Movie-recommendation-system/blob/main/movie%20recommender.ipynb
+[This project](https://github.com/yan-055/Movie-recommendation-system/blob/main/movie%20recommender.ipynb) provides a detailed description about recommender systems and the autoencoder model. 
+
