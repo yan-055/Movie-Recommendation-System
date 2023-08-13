@@ -1,4 +1,4 @@
-## Movie-recommendation-system
+# Movie Recommendation System
 This is a movie recommendation system using collabrotive filtering technique. 
 
 A deep learning algorithm - autoencoder - is applied to build a model which could recommend 10 new (unwatched) movies to users.
