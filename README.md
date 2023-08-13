@@ -1,7 +1,7 @@
 # Movie Recommendation System
 This is a movie recommendation system using collabrotive filtering technique. 
 
-A deep learning algorithm - autoencoder - is applied to build a model which could recommend 10 new (unwatched) movies to each user.
+A deep learning algorithm - autoencoder - is applied to build a model which could recommend 10 new movies/unwatched movies to each user.
 
 The DL model is trained and evaluated based on MovieLens 100K Dataset.
 
