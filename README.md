@@ -3,6 +3,6 @@ This is a movie recommendation system using collaborative filtering technique. A
 
 [In this project](https://github.com/yan-055/movie-recommendation-system/blob/main/implement_autoencoder.ipynb), the model is trained based on MovieLens 100K Dataset, which implements an autoencoder neural network to reconstruct a user’s ratings of all movies. Precision and recall are calcuated to evaluate the model's performance.
 
-This project also provides an overall introduction to recommender systems and autoencoders. 
+This project also has an overall introduction to recommender systems and autoencoders. 
 
 
